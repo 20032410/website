@@ -1,0 +1,345 @@
+.led_sct1 {
+	min-width: 1200px;
+	position: relative;
+	height: 352px;
+	text-align: left;
+	color: #fff;
+	background-color: #bdbdbd
+}
+.led_sct1 .container {
+	position: relative;
+	overflow: inherit
+}
+.led_sct1-bgimg {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	height: 100%
+}
+.led_sct1-title {
+	padding-top: 160px;
+	font-size: 46px;
+	line-height: 60px;
+	margin-bottom: 12px
+}
+.led_sct1-txt {
+	font-size: 16px;
+	line-height: 24px
+}
+.led_sct1-videoWrapper {
+	position: absolute;
+	width: 310px;
+	height: 214px;
+	right: 3px;
+	bottom: 48px;
+	border: 2px solid #f60;
+	color: #fff
+}
+.led_sct1-videoImg {
+	width: 306px;
+	height: 210px;
+	background-size: cover
+}
+.led_sct1-videoTxts {
+	position: absolute;
+	width: 100%;
+	top: 136px
+}
+.led_sct1-videoTxt {
+	text-align: center;
+	font-size: 14px;
+	line-height: 20px
+}
+.led_sct2 {
+	min-width: 1200px;
+	background-color: #fff
+}
+.led_sct2-wrapper {
+	margin-top: 297px;
+	border-top: 1px solid #ddd;
+	position: relative;
+	text-align: center;
+	font-size: 0
+}
+.led_sct2-list {
+	position: absolute;
+	width: 100%;
+	top: -227px;
+	text-align: center;
+	font-size: 0;
+	overflow: hidden
+}
+.led_sct2-listwrapper {
+	margin-right: -35px;
+	overflow: hidden
+}
+.led_sct2-item, .led_sct2-listwrapper {
+	display: inline-block;
+	*display: inline;
+	*zoom: 1
+}
+.led_sct2-item {
+	margin-right: 35px;
+	width: 150px;
+	vertical-align: top
+}
+.led_sct2-img {
+	width: 60px;
+	height: 60px
+}
+.led_sct2-itemTxt {
+	margin-top: 20px;
+	color: #303030;
+	font-size: 14px;
+	line-height: 22px
+}
+.led_sct2-title {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	top: -21px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #303030;
+	padding: 0 24px;
+	background-color: #fff;
+	margin-bottom: 9px
+}
+.led_sct2-txt {
+	font-size: 16px;
+	line-height: 28px;
+	color: #4a4a4a
+}
+.led_sct2-banner {
+	margin-top: 50px;
+	width: 1200px;
+	height: 557px
+}
+.led_sct3 .container {
+	overflow: visible;
+	overflow: initial
+}
+.led_sct3 {
+	min-width: 1200px;
+	font-size: 0;
+	overflow: hidden
+}
+.led_sct3-wrapper {
+	margin-top: 128px;
+	border-top: 1px solid #ddd;
+	text-align: center;
+	position: relative
+}
+.led_sct3-title {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	top: -21px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #303030;
+	padding: 0 24px;
+	background-color: #fff
+}
+.led_sct3-txt {
+	font-size: 16px;
+	color: #9b9b9b;
+	line-height: 28px
+}
+.led_sct3-banner {
+	margin-top: 80px;
+	width: 100%;
+	height: 600px
+}
+.led_sct3-img {
+	position: absolute;
+	top: 295px;
+	right: 6px;
+	width: 570px;
+	height: 490px
+}
+.led_sct4 .container {
+	overflow: visible;
+	overflow: initial
+}
+.led_sct4 {
+	min-width: 1200px;
+	font-size: 0;
+	overflow: hidden
+}
+.led_sct4-wrapper {
+	margin-top: 115px;
+	border-top: 1px solid #ddd;
+	text-align: center;
+	position: relative
+}
+.led_sct4-title {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	top: -21px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #303030;
+	padding: 0 24px;
+	background-color: #fff
+}
+.led_sct4-txt {
+	font-size: 16px;
+	color: #9b9b9b;
+	line-height: 28px
+}
+.led_sct4-img {
+	position: absolute;
+	top: 300px;
+	left: 12px;
+	width: 323px;
+	height: 435px
+}
+.led_sct4-itemlock {
+	position: absolute;
+	top: 359px;
+	left: 385px;
+	width: 120px
+}
+.led_sct4-itemoutlet {
+	position: absolute;
+	top: 359px;
+	left: 520px;
+	width: 120px
+}
+.led_sct4-itemimg {
+	width: 60px;
+	height: 60px
+}
+.led_sct4-itemTxt {
+	width: 100%;
+	margin-top: 20px;
+	font-size: 14px;
+	line-height: 20px;
+	color: #303030
+}
+.led_sct4-banner {
+	margin-top: 80px;
+	width: 100%;
+	height: 550px
+}
+.led_sct5 {
+	min-width: 1200px;
+	font-size: 0
+}
+.led_sct5-wrapper {
+	margin-top: 115px;
+	border-top: 1px solid #ddd;
+	text-align: center
+}
+.led_sct5-title {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	top: -21px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #303030;
+	padding: 0 24px;
+	background-color: #fff
+}
+.led_sct5-listwrapper {
+	width: 100%;
+	margin-top: 66px;
+	overflow: hidden
+}
+.led_sct5-list {
+	margin-right: -10px
+}
+.led_sct5-item {
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	position: relative;
+	vertical-align: top;
+	text-align: center;
+	width: 293px;
+	height: 370px;
+	margin-right: 10px
+}
+.led_sct5-itemtitle {
+	color: #4a4a4a;
+	font-size: 18px;
+	line-height: 21px;
+	margin: 24px auto 13px
+}
+.led_sct5-itemsubtitle {
+	color: #979797;
+	font-size: 12px;
+	line-height: 14px
+}
+.led_sct5-itemtxt {
+	color: #4a4a4a;
+	font-size: 12px;
+	line-height: 20px
+}
+.led_sct5-itemimg {
+	height: 200px;
+	width: 200px;
+	margin: 12px auto 7px
+}
+.led_sct6 {
+	min-width: 1200px
+}
+.led_sct6-wrapper {
+	margin-top: 115px;
+	border-top: 1px solid #ddd;
+	text-align: center;
+	font-size: 0
+}
+.led_sct6-title {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	top: -21px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #303030;
+	padding: 0 24px;
+	background-color: #fff
+}
+.led_sct6-listwrapper {
+	padding: 56px 0 130px;
+	width: 100%;
+	overflow: hidden
+}
+.led_sct6-list {
+	margin-right: -10px
+}
+.led_sct6-item {
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	position: relative;
+	margin-right: 10px;
+	width: 292px;
+	height: 340px
+}
+.led_sct6-itemTxt {
+	position: absolute;
+	width: 100%;
+	font-size: 18px;
+	line-height: 22px;
+	color: #4a4a4a;
+	bottom: 38px
+}
+.led_sct6-img {
+	margin-top: 36px;
+	width: 200px;
+	height: 200px
+}
+html[lang=en] .led_sct5-itemtxt {
+	text-align: left;
+	padding: 0 10px
+}

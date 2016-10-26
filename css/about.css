@@ -1,0 +1,91 @@
+.abt_section_1 {
+	min-width: 1200px;
+	height: 300px;
+	text-align: center;
+	color: #fff;
+	position: relative;
+	background-color: #bdbdbd
+}
+.abt_section_1 .container {
+	position: relative;
+	overflow: inherit;
+	text-align: center
+}
+.abt_section_1-img {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	height: 100%
+}
+.abt_section_1-title {
+	padding-top: 100px;
+	font-size: 46px;
+	line-height: 60px;
+	margin-bottom: 12px
+}
+.abt_section_1-txt, .abt_section_2-title {
+	font-size: 18px;
+	line-height: 28px
+}
+.abt_section_2-title {
+	color: #5a5a5a;
+	padding: 30px 0 24px;
+	text-align: left;
+	border-bottom: 1px solid #e8e8e8
+}
+.abt_section_2 {
+	*display: inline;
+	*zoom: 1;
+	color: #999;
+	font-size: 18px;
+	margin: 80px 0 80px
+}
+.abt_section_2 .tuya_intro {
+	padding: ;
+	font-size: 16px;
+	line-height: 36px;
+	font-weight: 100;
+	text-indent:40px;
+}
+.abt_section_2 .founder {
+	*display: inline;
+	*zoom: 1;
+	padding-top: 10px
+}
+.abt_section_2 .founder .founder_img {
+	float: left;
+	position: inline-block;
+	*display: inline;
+	*zoom: 1;
+	width: 125px;
+	height: 125px
+}
+.abt_section_2 .founder .founder1_img {
+	float: left;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	width: 125px;
+	height: 125px
+}
+.abt_section_2 .founder .founder_intro {
+	margin-left: 170px;
+	padding-bottom: 70px;
+	font-size: 16px;
+	line-height: 28px;
+	text-align: left;
+	font-weight: 100
+}
+.abt_section_2 .founder .founder_intro .title {
+	color: #5a5a5a;
+	font-size: 20px;
+	margin-bottom: 10px
+}
+.abt_section_2 .founder .founder_intro .title span.name {
+	font-weight: 200
+}
+html[lang=en] .abt_section_2-txt {
+	margin: 10px 0;
+	font-size: 14px;
+	line-height: 20px
+}
