@@ -1,0 +1,192 @@
+.cloud_sct1 {
+	min-width: 1200px;
+	height: 300px;
+	color: #fff;
+	background-color: #bdbdbd
+}
+.cloud_sct1, .cloud_sct1 .container {
+	text-align: center;
+	position: relative
+}
+.cloud_sct1 .container {
+	overflow: inherit
+}
+.cloud_sct1-bgimg {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	height: 100%
+}
+.cloud_sct1-title {
+	padding-top: 150px;
+	font-size: 46px;
+	line-height: 60px
+}
+.cloud_sct1-txt {
+	margin-top: 12px;
+	font-size: 18px;
+	line-height: 28px
+}
+.cloud_sct2 {
+	min-width: 1200px;
+	font-size: 0
+}
+.cloud_sct2-wrapper {
+	margin-top: 115px;
+	border-top: 1px solid #ddd;
+	position: relative;
+	text-align: center
+}
+.cloud_sct2-title {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	top: -21px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #303030;
+	padding: 0 24px;
+	background-color: #fff;
+	margin-bottom: 9px
+}
+.cloud_sct2-txt {
+	font-size: 16px;
+	line-height: 28px;
+	color: #4a4a4a
+}
+.cloud_sct2-img {
+	text-align: center;
+	font-size: 0;
+	background-color: #fafafa;
+	margin-top: 50px
+}
+.cloud_sct2-banner {
+	width: 1002px;
+	height: 505px;
+	margin: 57px auto 69px
+}
+.cloud_sct3 {
+	min-width: 1200px;
+	font-size: 0
+}
+.cloud_sct3-wrapper {
+	margin-top: 115px;
+	border-top: 1px solid #ddd;
+	position: relative;
+	text-align: center
+}
+.cloud_sct3-title {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	top: -21px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #303030;
+	padding: 0 24px;
+	background-color: #fff;
+	margin-bottom: 9px
+}
+.cloud_sct3-txt {
+	font-size: 16px;
+	line-height: 28px;
+	color: #4a4a4a
+}
+.cloud_sct3-img {
+	text-align: center
+}
+.cloud_sct3-banner {
+	width: 1264px;
+	height: 631px;
+	margin: 32px auto 0
+}
+.cloud_sct4 {
+	min-width: 1200px;
+	font-size: 0
+}
+.cloud_sct4-wrapper {
+	margin-top: 120px;
+	border-top: 1px solid #ddd;
+	position: relative;
+	text-align: center
+}
+.cloud_sct4-title {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	top: -21px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #303030;
+	padding: 0 24px;
+	background-color: #fff;
+	margin-bottom: 9px
+}
+.cloud_sct4-txt {
+	font-size: 16px;
+	line-height: 28px;
+	color: #4a4a4a
+}
+.cloud_sct4-banner {
+	margin-top: 108px;
+	height: 436px;
+	width: 964px
+}
+.cloud_sct5 {
+	min-width: 1200px;
+	font-size: 0
+}
+.cloud_sct5-wrapper {
+	margin-top: 150px;
+	border-top: 1px solid #ddd;
+	position: relative;
+	text-align: center
+}
+.cloud_sct5-title {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	top: -21px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #303030;
+	padding: 0 24px;
+	background-color: #fff;
+	margin-bottom: 9px
+}
+.cloud_sct5-txt {
+	font-size: 16px;
+	line-height: 28px;
+	color: #4a4a4a
+}
+.cloud_sct5-logo {
+	margin: 57px auto 95px;
+	height: 68px;
+	width: 947px
+}
+.cloud_sct5-banner {
+	margin-top: 58px;
+	height: 437px;
+	width: 1108px
+}
+.cloud_sct5-img {
+	height: 653px;
+	position: relative;
+	text-align: center;
+	margin-bottom: 50px
+}
+.cloud_sct5-bg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 653px;
+	z-index: -1
+}
+html[lang=en] .cloud_sct3-title {
+	top: -42px
+}

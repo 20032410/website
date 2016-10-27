@@ -1,0 +1,117 @@
+.coop_sct1 {
+	min-width: 1200px;
+	height: 300px;
+	color: #fff;
+	background-color: #bdbdbd
+}
+.coop_sct1, .coop_sct1 .container {
+	text-align: center;
+	position: relative
+}
+.coop_sct1 .container {
+	overflow: inherit
+}
+.coop_sct1-img {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	height: 100%
+}
+.coop_sct1-title {
+	padding-top: 100px;
+	font-size: 46px;
+	line-height: 60px;
+	margin-bottom: 12px
+}
+.coop_sct1-txt {
+	font-size: 18px;
+	line-height: 28px
+}
+.coop_section_2 {
+	background-color: #fff
+}
+.hi {
+	font-size: 18px;
+	color: #5a5a5a;
+	padding: 30px 0 24px;
+	text-align: left;
+	border-bottom: 1px solid #e8e8e8;
+	line-height: 28px
+}
+.cooperation {
+	*display: inline;
+	*zoom: 1;
+	position: relative;
+	text-align: center
+}
+.cooperation .flow {
+	padding: 74px 0 0
+}
+.cooperation .step {
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	width: 156px;
+	height: 160px
+}
+.cooperation .step .coop_section_2-img {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 156px;
+	height: 156px
+}
+.cooperation .step-content {
+	position: absolute;
+	top: -5px;
+	left: -20px
+}
+.cooperation .coop_section_2-imgnext, .cooperation .next {
+	position: relative;
+	top: -50px;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	margin: 0 20px 0 24px;
+	width: 28px;
+	height: 62px
+}
+.cooperation .title {
+	margin-top: 40px;
+	color: #000;
+	font-size: 54px;
+	line-height: 66px
+}
+.cooperation .des {
+	margin-bottom: 55px;
+	color: #5a5a5a;
+	font-size: 16px;
+	line-height: 16px
+}
+.cooperation .detail {
+	width: 196px;
+	color: #999;
+	font-size: 14px;
+	line-height: 18px
+}
+.cooperation .contact {
+	margin-top: 140px;
+	color: #5a5a5a;
+	font-size: 14px;
+	line-height: 18px
+}
+.cooperation .contact-button {
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	margin: 40px 0 174px;
+	padding: 14px 60px;
+	background-color: #f60;
+	color: #fff;
+	font-size: 16px;
+	line-height: 16px
+}
+html[lang=en] .cooperation .detail {
+	font-size: 12px
+}
